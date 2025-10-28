@@ -1,0 +1,468 @@
+Timestamp,DomainName,ClientIP,EventType,UpstreamServer,Response
+Oct 28 18:08:04,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:04,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:04,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:04,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:04,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:04,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:04,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:04,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:04,tuhafhaberler.com,10.0.0.1,query[A],,
+Oct 28 18:08:04,tuhafhaberler.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:04,rtsab.com,10.0.0.1,query[A],,
+Oct 28 18:08:04,rtsab.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:04,i-butterfly.ru,10.0.0.1,query[A],,
+Oct 28 18:08:04,i-butterfly.ru,,HIT (config),,127.0.0.1
+Oct 28 18:08:04,datepanchang.com,10.0.0.1,query[A],,
+Oct 28 18:08:04,datepanchang.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:04,localhost.re,10.0.0.1,query[A],,
+Oct 28 18:08:04,localhost.re,,HIT (config),,127.0.0.1
+Oct 28 18:08:04,daehepharma.com,10.0.0.1,query[A],,
+Oct 28 18:08:04,daehepharma.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:04,ex-jw.org,10.0.0.1,query[A],,
+Oct 28 18:08:04,ex-jw.org,,HIT (config),,127.0.0.1
+Oct 28 18:08:04,us.tf,10.0.0.1,query[A],,
+Oct 28 18:08:04,us.tf,,HIT (config),,127.0.0.1
+Oct 28 18:08:04,informarexresistere.fr,10.0.0.1,query[A],,
+Oct 28 18:08:04,informarexresistere.fr,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,running-sigi.de,10.0.0.1,query[A],,
+Oct 28 18:08:05,running-sigi.de,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:05,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:05,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:05,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:05,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,buynowfromusa.com,10.0.0.1,query[A],,
+Oct 28 18:08:05,buynowfromusa.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,pbprofile.com,10.0.0.1,query[A],,
+Oct 28 18:08:05,pbprofile.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:05,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:05,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:05,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:05,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,fini.net,10.0.0.1,query[A],,
+Oct 28 18:08:05,fini.net,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,gmxwnlajnl,10.0.0.1,query[A],,
+Oct 28 18:08:05,gmxwnlajnl,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,djoncbjcmv,10.0.0.1,query[A],,
+Oct 28 18:08:05,djoncbjcmv,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,mptrmkwart,10.0.0.1,query[A],,
+Oct 28 18:08:05,mptrmkwart,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,djoncbjcmv,10.0.0.1,query[A],,
+Oct 28 18:08:05,djoncbjcmv,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,gmxwnlajnl,10.0.0.1,query[A],,
+Oct 28 18:08:05,gmxwnlajnl,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,mptrmkwart,10.0.0.1,query[A],,
+Oct 28 18:08:05,mptrmkwart,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,globalpoliticalspectrum.com,10.0.0.1,query[A],,
+Oct 28 18:08:05,globalpoliticalspectrum.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,41latitude.com,10.0.0.1,query[A],,
+Oct 28 18:08:05,41latitude.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,zzxu.cn,10.0.0.1,query[A],,
+Oct 28 18:08:05,zzxu.cn,,HIT (config),,127.0.0.1
+Oct 28 18:08:05,energybulbs.co.uk,10.0.0.1,query[A],,
+Oct 28 18:08:05,energybulbs.co.uk,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,o-ov.com,10.0.0.1,query[A],,
+Oct 28 18:08:06,o-ov.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,lozo.com,10.0.0.1,query[A],,
+Oct 28 18:08:06,lozo.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,tottenhamhk.com,10.0.0.1,query[A],,
+Oct 28 18:08:06,tottenhamhk.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,newstetic.com,10.0.0.1,query[A],,
+Oct 28 18:08:06,newstetic.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,triggerfish.se,10.0.0.1,query[A],,
+Oct 28 18:08:06,triggerfish.se,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,reprosystems.ru,10.0.0.1,query[A],,
+Oct 28 18:08:06,reprosystems.ru,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,interfloracentral.co.uk,10.0.0.1,query[A],,
+Oct 28 18:08:06,interfloracentral.co.uk,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,afairjudgement.com,10.0.0.1,query[A],,
+Oct 28 18:08:06,afairjudgement.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,owlcreek.com,10.0.0.1,query[A],,
+Oct 28 18:08:06,owlcreek.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,radioterminal.ru,10.0.0.1,query[A],,
+Oct 28 18:08:06,radioterminal.ru,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,junio.com,10.0.0.1,query[A],,
+Oct 28 18:08:06,junio.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,ditrblog.com,10.0.0.1,query[A],,
+Oct 28 18:08:06,ditrblog.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:06,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:06,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:06,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:06,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,isilon,10.0.0.1,query[A],,
+Oct 28 18:08:06,isilon,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,isilon,10.0.0.1,query[A],,
+Oct 28 18:08:06,isilon,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,isilon,10.0.0.1,query[A],,
+Oct 28 18:08:06,isilon,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,isilon,10.0.0.1,query[A],,
+Oct 28 18:08:06,isilon,,HIT (config),,127.0.0.1
+Oct 28 18:08:06,alchemedialtd.com,10.0.0.1,query[A],,
+Oct 28 18:08:06,alchemedialtd.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,portclydegeneralstore.com,10.0.0.1,query[A],,
+Oct 28 18:08:07,portclydegeneralstore.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,alenpuaca.com,10.0.0.1,query[A],,
+Oct 28 18:08:07,alenpuaca.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,dj-producer-j-mbargo.com,10.0.0.1,query[A],,
+Oct 28 18:08:07,dj-producer-j-mbargo.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,iag-inc.com,10.0.0.1,query[A],,
+Oct 28 18:08:07,iag-inc.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,advertos.ru,10.0.0.1,query[A],,
+Oct 28 18:08:07,advertos.ru,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,kh.ua,10.0.0.1,query[A],,
+Oct 28 18:08:07,kh.ua,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,kennethehartman.com,10.0.0.1,query[A],,
+Oct 28 18:08:07,kennethehartman.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,hemcolubricants.com,10.0.0.1,query[A],,
+Oct 28 18:08:07,hemcolubricants.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,forpsi.net,10.0.0.1,query[A],,
+Oct 28 18:08:07,forpsi.net,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,memeblender.com,10.0.0.1,query[A],,
+Oct 28 18:08:07,memeblender.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,somode.com,10.0.0.1,query[A],,
+Oct 28 18:08:07,somode.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,gamemob.com,10.0.0.1,query[A],,
+Oct 28 18:08:07,gamemob.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,monsterhomesecuritystore.com,10.0.0.1,query[A],,
+Oct 28 18:08:07,monsterhomesecuritystore.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,door2games.com,10.0.0.1,query[A],,
+Oct 28 18:08:07,door2games.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,ondemandappliancerepair.com,10.0.0.1,query[A],,
+Oct 28 18:08:07,ondemandappliancerepair.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,gensee.com,10.0.0.1,query[A],,
+Oct 28 18:08:07,gensee.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,caricsports.com,10.0.0.1,query[A],,
+Oct 28 18:08:07,caricsports.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,auqzzx.com,10.0.0.1,query[A],,
+Oct 28 18:08:07,auqzzx.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,toaskfuture.com,10.0.0.1,query[A],,
+Oct 28 18:08:07,toaskfuture.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,cetsi.fr,10.0.0.1,query[A],,
+Oct 28 18:08:07,cetsi.fr,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,probigbets.com,10.0.0.1,query[A],,
+Oct 28 18:08:07,probigbets.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:07,bikesandtransit.com,10.0.0.1,query[A],,
+Oct 28 18:08:07,bikesandtransit.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,aqvr.com,10.0.0.1,query[A],,
+Oct 28 18:08:08,aqvr.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,niceinternetmoney.ru,10.0.0.1,query[A],,
+Oct 28 18:08:08,niceinternetmoney.ru,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,isatap,10.0.0.1,query[A],,
+Oct 28 18:08:08,isatap,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,isatap,10.0.0.1,query[A],,
+Oct 28 18:08:08,isatap,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,isatap,10.0.0.1,query[A],,
+Oct 28 18:08:08,isatap,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,isatap,10.0.0.1,query[A],,
+Oct 28 18:08:08,isatap,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,chonvn.com,10.0.0.1,query[A],,
+Oct 28 18:08:08,chonvn.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,eugenbotnar.com,10.0.0.1,query[A],,
+Oct 28 18:08:08,eugenbotnar.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,phi-pe.com,10.0.0.1,query[A],,
+Oct 28 18:08:08,phi-pe.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,chuamatsua.com,10.0.0.1,query[A],,
+Oct 28 18:08:08,chuamatsua.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,pictures-thailand.com,10.0.0.1,query[A],,
+Oct 28 18:08:08,pictures-thailand.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:08,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:08,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:08,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:08,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,2brightsparks.co.uk,10.0.0.1,query[A],,
+Oct 28 18:08:08,2brightsparks.co.uk,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,astrumonline.ru,10.0.0.1,query[A],,
+Oct 28 18:08:08,astrumonline.ru,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,blueridgelife.com,10.0.0.1,query[A],,
+Oct 28 18:08:08,blueridgelife.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,mwzip.com,10.0.0.1,query[A],,
+Oct 28 18:08:08,mwzip.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,gusbi.com,10.0.0.1,query[A],,
+Oct 28 18:08:08,gusbi.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,simternet.com,10.0.0.1,query[A],,
+Oct 28 18:08:08,simternet.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:08,khsm.ru,10.0.0.1,query[A],,
+Oct 28 18:08:08,khsm.ru,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,livelinks.com,10.0.0.1,query[A],,
+Oct 28 18:08:09,livelinks.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,jantv.in,10.0.0.1,query[A],,
+Oct 28 18:08:09,jantv.in,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,hornil.com,10.0.0.1,query[A],,
+Oct 28 18:08:09,hornil.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,7dfps.com,10.0.0.1,query[A],,
+Oct 28 18:08:09,7dfps.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,luckypuppygames.com,10.0.0.1,query[A],,
+Oct 28 18:08:09,luckypuppygames.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,b-matrix.com,10.0.0.1,query[A],,
+Oct 28 18:08:09,b-matrix.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,coutureauchocolat.com,10.0.0.1,query[A],,
+Oct 28 18:08:09,coutureauchocolat.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,afresnohomeinspector.com,10.0.0.1,query[A],,
+Oct 28 18:08:09,afresnohomeinspector.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,pieceinch.com,10.0.0.1,query[A],,
+Oct 28 18:08:09,pieceinch.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,australiatradenow.com,10.0.0.1,query[A],,
+Oct 28 18:08:09,australiatradenow.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,diamondknot.com,10.0.0.1,query[A],,
+Oct 28 18:08:09,diamondknot.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,amorefieldlife.com,10.0.0.1,query[A],,
+Oct 28 18:08:09,amorefieldlife.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,sheltercoveinn.com,10.0.0.1,query[A],,
+Oct 28 18:08:09,sheltercoveinn.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,wrestlingfanssuck.com,10.0.0.1,query[A],,
+Oct 28 18:08:09,wrestlingfanssuck.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,sdccdonline.net,10.0.0.1,query[A],,
+Oct 28 18:08:09,sdccdonline.net,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,autofirenze.biz,10.0.0.1,query[A],,
+Oct 28 18:08:09,autofirenze.biz,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:09,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:09,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:09,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:09,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:09,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:09,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:09,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:10,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:10,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,house-sg.com,10.0.0.1,query[A],,
+Oct 28 18:08:10,house-sg.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,camcard.com,10.0.0.1,query[A],,
+Oct 28 18:08:10,camcard.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,ppsuika.ac.id,10.0.0.1,query[A],,
+Oct 28 18:08:10,ppsuika.ac.id,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,healthnews4you.com,10.0.0.1,query[A],,
+Oct 28 18:08:10,healthnews4you.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,stunninggirls.net,10.0.0.1,query[A],,
+Oct 28 18:08:10,stunninggirls.net,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,isatap,10.0.0.1,query[A],,
+Oct 28 18:08:10,isatap,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,isatap,10.0.0.1,query[A],,
+Oct 28 18:08:10,isatap,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,isatap,10.0.0.1,query[A],,
+Oct 28 18:08:10,isatap,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,isatap,10.0.0.1,query[A],,
+Oct 28 18:08:10,isatap,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,kathihill.com,10.0.0.1,query[A],,
+Oct 28 18:08:10,kathihill.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,linksplash.info,10.0.0.1,query[A],,
+Oct 28 18:08:10,linksplash.info,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,group14eng.com,10.0.0.1,query[A],,
+Oct 28 18:08:10,group14eng.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,shqqaa.com,10.0.0.1,query[A],,
+Oct 28 18:08:10,shqqaa.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,mesites.co.za,10.0.0.1,query[A],,
+Oct 28 18:08:10,mesites.co.za,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,progettogiovani.pd.it,10.0.0.1,query[A],,
+Oct 28 18:08:10,progettogiovani.pd.it,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:10,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:10,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:10,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:10,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:10,uahoy.net,10.0.0.1,query[A],,
+Oct 28 18:08:10,uahoy.net,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,retiragroup.com,10.0.0.1,query[A],,
+Oct 28 18:08:11,retiragroup.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,effexdjs.com,10.0.0.1,query[A],,
+Oct 28 18:08:11,effexdjs.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,mysearch-online.com,10.0.0.1,query[A],,
+Oct 28 18:08:11,mysearch-online.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,asadventure.com,10.0.0.1,query[A],,
+Oct 28 18:08:11,asadventure.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:11,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:11,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:11,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:11,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:11,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:11,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,michiganbulb.com,10.0.0.1,query[A],,
+Oct 28 18:08:11,michiganbulb.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:11,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:11,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,shivalikprints.com,10.0.0.1,query[A],,
+Oct 28 18:08:11,shivalikprints.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:11,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:11,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:11,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,wpad,10.0.0.1,query[A],,
+Oct 28 18:08:11,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,wpad,10.0.0.2,query[A],,
+Oct 28 18:08:11,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,wpad,10.0.0.2,query[A],,
+Oct 28 18:08:11,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,wpad,10.0.0.2,query[A],,
+Oct 28 18:08:11,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,wpad,10.0.0.2,query[A],,
+Oct 28 18:08:11,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:11,likeminded.ca,10.0.0.2,query[A],,
+Oct 28 18:08:11,likeminded.ca,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,alltransport.ru,10.0.0.2,query[A],,
+Oct 28 18:08:12,alltransport.ru,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,brown.edu,10.0.0.2,query[A],,
+Oct 28 18:08:12,brown.edu,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,fauzanalfi.com,10.0.0.2,query[A],,
+Oct 28 18:08:12,fauzanalfi.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,supreetsethi.net,10.0.0.2,query[A],,
+Oct 28 18:08:12,supreetsethi.net,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,gucenmez.com,10.0.0.2,query[A],,
+Oct 28 18:08:12,gucenmez.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,seedy.dk,10.0.0.2,query[A],,
+Oct 28 18:08:12,seedy.dk,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,51cdngo.com,10.0.0.2,query[A],,
+Oct 28 18:08:12,51cdngo.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,simple-health-reports.com,10.0.0.2,query[A],,
+Oct 28 18:08:12,simple-health-reports.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,hivelocitymedia.com,10.0.0.2,query[A],,
+Oct 28 18:08:12,hivelocitymedia.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,jabeye.org,10.0.0.2,query[A],,
+Oct 28 18:08:12,jabeye.org,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,ticketbis.com,10.0.0.2,query[A],,
+Oct 28 18:08:12,ticketbis.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,cellularfactory.com,10.0.0.2,query[A],,
+Oct 28 18:08:12,cellularfactory.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,tsksv.ru,10.0.0.2,query[A],,
+Oct 28 18:08:12,tsksv.ru,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,wpad,10.0.0.2,query[A],,
+Oct 28 18:08:12,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,wpad,10.0.0.2,query[A],,
+Oct 28 18:08:12,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,wpad,10.0.0.2,query[A],,
+Oct 28 18:08:12,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,wpad,10.0.0.2,query[A],,
+Oct 28 18:08:12,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,gaybodyblog.com,10.0.0.2,query[A],,
+Oct 28 18:08:12,gaybodyblog.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,wpad,10.0.0.2,query[A],,
+Oct 28 18:08:12,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,wpad,10.0.0.2,query[A],,
+Oct 28 18:08:12,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,wpad,10.0.0.2,query[A],,
+Oct 28 18:08:12,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,wpad,10.0.0.2,query[A],,
+Oct 28 18:08:12,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,datadikdki.net,10.0.0.2,query[A],,
+Oct 28 18:08:12,datadikdki.net,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,mumphi.de,10.0.0.2,query[A],,
+Oct 28 18:08:12,mumphi.de,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,gmxwnlajnl,10.0.0.2,query[A],,
+Oct 28 18:08:12,gmxwnlajnl,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,djoncbjcmv,10.0.0.2,query[A],,
+Oct 28 18:08:12,djoncbjcmv,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,mptrmkwart,10.0.0.2,query[A],,
+Oct 28 18:08:12,mptrmkwart,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,djoncbjcmv,10.0.0.2,query[A],,
+Oct 28 18:08:12,djoncbjcmv,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,gmxwnlajnl,10.0.0.2,query[A],,
+Oct 28 18:08:12,gmxwnlajnl,,HIT (config),,127.0.0.1
+Oct 28 18:08:12,mptrmkwart,10.0.0.2,query[A],,
+Oct 28 18:08:12,mptrmkwart,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,brfone.com,10.0.0.2,query[A],,
+Oct 28 18:08:13,brfone.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,newpages2u.com,10.0.0.2,query[A],,
+Oct 28 18:08:13,newpages2u.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,bigjournalism.com,10.0.0.2,query[A],,
+Oct 28 18:08:13,bigjournalism.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,congsoxanh.com,10.0.0.2,query[A],,
+Oct 28 18:08:13,congsoxanh.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,visualtap.com,10.0.0.2,query[A],,
+Oct 28 18:08:13,visualtap.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,oberoncompany.com,10.0.0.2,query[A],,
+Oct 28 18:08:13,oberoncompany.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,consejodentistas.org,10.0.0.2,query[A],,
+Oct 28 18:08:13,consejodentistas.org,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,k-dsl.de,10.0.0.2,query[A],,
+Oct 28 18:08:13,k-dsl.de,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,asip.es,10.0.0.2,query[A],,
+Oct 28 18:08:13,asip.es,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,androgyn.org,10.0.0.2,query[A],,
+Oct 28 18:08:13,androgyn.org,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,panaceadream.com,10.0.0.2,query[A],,
+Oct 28 18:08:13,panaceadream.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,hotel.ch,10.0.0.2,query[A],,
+Oct 28 18:08:13,hotel.ch,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,c3budiman.tk,10.0.0.2,query[A],,
+Oct 28 18:08:13,c3budiman.tk,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,obtscan.com,10.0.0.2,query[A],,
+Oct 28 18:08:13,obtscan.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,phoenix-music.ru,10.0.0.2,query[A],,
+Oct 28 18:08:13,phoenix-music.ru,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,motiie.com,10.0.0.2,query[A],,
+Oct 28 18:08:13,motiie.com,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,wpad,10.0.0.2,query[A],,
+Oct 28 18:08:13,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,wpad,10.0.0.2,query[A],,
+Oct 28 18:08:13,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,wpad,10.0.0.2,query[A],,
+Oct 28 18:08:13,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,wpad,10.0.0.2,query[A],,
+Oct 28 18:08:13,wpad,,HIT (config),,127.0.0.1
+Oct 28 18:08:13,isilon,10.0.0.2,query[A],,
+Oct 28 18:29:59,isilon,,HIT (config),,127.0.0.1
+Oct 28 18:29:59,isilon,10.0.0.2,query[A],,
+Oct 28 18:29:59,isilon,,HIT (config),,127.0.0.1
+Oct 28 18:29:59,isilon,10.0.0.2,query[A],,
+Oct 28 18:29:59,isilon,,HIT (config),,127.0.0.1
+Oct 28 18:29:59,isilon,10.0.0.2,query[A],,
+Oct 28 18:29:59,isilon,,HIT (config),,127.0.0.1
+Oct 28 18:29:59,cncdesign.co.kr,10.0.0.2,query[A],,
+Oct 28 18:29:59,cncdesign.co.kr,,HIT (config),,127.0.0.1
+Oct 28 18:29:59,udoo24.com,10.0.0.2,query[A],,
+Oct 28 18:29:59,udoo24.com,,HIT (config),,127.0.0.1
+Oct 28 18:29:59,ljyelectronic.com,10.0.0.2,query[A],,
+Oct 28 18:29:59,ljyelectronic.com,,HIT (config),,127.0.0.1
+Oct 28 18:29:59,bek.ir,10.0.0.2,query[A],,
+Oct 28 18:29:59,bek.ir,,HIT (config),,127.0.0.1
+Oct 28 18:29:59,valerievandenbroek.nl,10.0.0.2,query[A],,
+Oct 28 18:29:59,valerievandenbroek.nl,,HIT (config),,127.0.0.1
+Oct 28 18:29:59,lacuentaperdida.org,10.0.0.2,query[A],,
+Oct 28 18:29:59,lacuentaperdida.org,,HIT (config),,127.0.0.1
+Oct 28 18:29:59,alkoholiker-clan.de,10.0.0.2,query[A],,
+Oct 28 18:29:59,alkoholiker-clan.de,,HIT (config),,127.0.0.1
+Oct 28 18:29:59,doommovie.com,10.0.0.2,query[A],,
+Oct 28 18:29:59,doommovie.com,,HIT (config),,127.0.0.1
+Oct 28 18:29:59,xqgcab.com,10.0.0.2,query[A],,
+Oct 28 18:29:59,xqgcab.com,,HIT (config),,127.0.0.1
+Oct 28 18:29:59,uanet.net,10.0.0.2,query[A],,
+Oct 28 18:29:59,uanet.net,,HIT (config),,127.0.0.1
+Oct 28 18:29:59,tomorrowsreflection.com,10.0.0.2,query[A],,
+Oct 28 18:29:59,tomorrowsreflection.com,,HIT (config),,127.0.0.1
+Oct 28 18:29:59,lighthouse.cc,10.0.0.2,query[A],,
+Oct 28 18:29:59,lighthouse.cc,,HIT (config),,127.0.0.1
+Oct 28 18:29:59,7sports.jp,10.0.0.2,query[A],,
