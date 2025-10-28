@@ -6,6 +6,7 @@ from mininet.node import OVSController
 from mininet.link import TCLink
 from mininet.log import setLogLevel, info
 import time
+import re
 import os
 
 class NetworkTopo(Topo):
@@ -30,31 +31,74 @@ class NetworkTopo(Topo):
         self.addLink(s2, s3, delay='8ms', **link_params)
         self.addLink(s3, s4, delay='10ms', **link_params)
 
-def start_custom_server(dns_host):
-    """Starts the custom TCP server on the dns host."""
-    info(f"*** Starting Custom TCP server on {dns_host.name}...\n")
-    server_script = os.path.abspath('custom_tcp_server.py')
-    dns_host.cmd(f'python3 {server_script} &> server_output.log &')
-    time.sleep(2) # Give the server a moment to start
-    info("✅ Custom TCP server started.\n")
-
-def run_custom_clients(hosts, dns_server_ip):
-    """Runs the custom_tcp_client.py on each host."""
-    client_script = os.path.abspath('custom_tcp_client.py')
+def start_dns_server(dns_host):
+    """Starts the custom MULTI-THREADED Python DNS resolver."""
+    info(f"*** Starting DNS server on {dns_host.name}...\n")
     
-    for h in hosts:
-        info(f"*** Running client on {h.name} ***\n")
-        # Run the client and wait for it to complete
-        h.cmd(f'python3 {client_script} {h.name} {dns_server_ip}')
-        info(f"*** Client on {h.name} finished ***\n")
+    # --- THIS IS THE CHANGE ---
+    # We are running the new multi-threaded server script
+    resolver_script = os.path.abspath('custom_resolver_multithreaded.py')
+    
+    dns_host.cmd(f'python3 {resolver_script} &> dns_server_output.log &')
+    time.sleep(2) # Give the server a moment to start
+    info("✅ DNS server started.\n")
+
+def run_dns_queries(host, dns_server_ip):
+    """
+    Reads queries from a file and measures performance SERIALLY.
+    """
+    query_file = f"queries{host.name[1:]}.txt"
+    info(f"--- Running queries for {host.name} from {query_file} ---\n")
+
+    try:
+        with open(query_file, 'r') as f:
+            queries = [line.strip() for line in f if line.strip()]
+    except FileNotFoundError:
+        info(f"⚠️  Could not find {query_file}. Skipping host {host.name}.\n")
+        return
+
+    latencies = []
+    success_count = 0
+    fail_count = 0
+    start_time = time.time()
+
+    # The client script still runs queries serially.
+    # host.cmd() is a blocking call.
+    for i, domain in enumerate(queries):
+        info(f"  {host.name} querying ({i+1}/{len(queries)}): {domain[:40]} ...")
+        
+        cmd_result = host.cmd(f'dig @{dns_server_ip} {domain}')
+        
+        if "status: NOERROR" in cmd_result:
+            success_count += 1
+            info("OK\n")
+            match = re.search(r"Query time: (\d+) msec", cmd_result)
+            if match:
+                latencies.append(int(match.group(1)))
+        else:
+            fail_count += 1
+            info("FAIL\n")
+
+    end_time = time.time()
+    total_time = end_time - start_time
+
+    avg_latency = sum(latencies) / len(latencies) if latencies else 0
+    throughput = success_count / total_time if total_time > 0 else 0
+
+    print(f"\nResults for {host.name}:")
+    print(f"  ✅ Successful Resolutions: {success_count}")
+    print(f"  ❌ Failed Resolutions....: {fail_count}")
+    print(f"  ⏱️  Average Lookup Latency: {avg_latency:.2f} ms")
+    print(f"  🚀 Average Throughput....: {throughput:.2f} QPS\n")
+
 
 def run_simulation():
-    """Create network, run tests, and stop."""
+    """Create network, run DNS tests, and stop."""
     topo = NetworkTopo()
     net = Mininet(topo=topo, link=TCLink, controller=OVSController)
     
-    # NOTE: NO NAT IS NEEDED here because your server doesn't
-    # need to contact the outside internet.
+    # Add NAT so the 'dns' host can reach the internet (root servers)
+    net.addNAT().configDefault()
     
     net.start()
     info("✅ Network started successfully.\n")
@@ -62,15 +106,15 @@ def run_simulation():
     dns_server = net.get('dns')
     hosts = [net.get('h1'), net.get('h2'), net.get('h3'), net.get('h4')]
 
-    # 1. Start your server on 10.0.0.5
-    start_custom_server(dns_server)
+    start_dns_server(dns_server)
 
-    # 2. Run the clients on H1-H4
-    run_custom_clients(hosts, dns_server.IP())
+    for h in hosts:
+        h.cmd(f'echo "nameserver {dns_server.IP()}" > /etc/resolv.conf')
 
-    # 3. Stop the server
+    for h in hosts:
+        run_dns_queries(h, dns_server.IP())
+
     dns_server.cmd('kill %python3')
-    
     net.stop()
     info("🛑 Simulation finished.\n")
 
